@@ -16,6 +16,9 @@ work to make more profit.
 - After that Removed the duplicated record from dataset using Data.drop_duplicates(inplace=True) command
 - Again checking total no of duplicates which was 0
 - checking shape again after removing 17 duplicated rows (9977,13)
+### Tools Used
+![pand](https://user-images.githubusercontent.com/79318960/138583921-dd4af8d6-e033-4c12-8217-416ccea2b80d.png)
+
 
 ### Conclusion
 
