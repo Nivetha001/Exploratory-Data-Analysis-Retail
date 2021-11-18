@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ### We will explore a Data set and perform the exploratory data analysis in python
 
 ### 📝Primary Goal
-As a business manager, try to find out the weak areas where you can 
+Try to find out the weak areas where we can 
 work to make more profit. 
 ### ⏳ Dataset Description
  Dataset: https://bit.ly/3i4rbWl 
