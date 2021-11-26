@@ -3,7 +3,7 @@ ________________________________________________________________________________
 ![yes (1)](https://user-images.githubusercontent.com/79318960/137638618-e0ce2b6f-aebb-4de4-b9c0-662e33341071.gif)
 
 ### We will explore a Data set and perform the exploratory data analysis in python
-
+Domain : Retail and Sales
 ### 📝Primary Goal
 Try to find out the weak areas where we can 
 work to make more profit. 
